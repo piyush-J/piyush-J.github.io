@@ -1,10 +1,10 @@
 ### your site title here
-title: Lorenzo Carnevale
-description: Assistant Professor at University of Messina
+title: Piyush Jha
+description: Ph.D. Student at Georgia Institute of Technology
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: lcarnevale@unime.it
+email: <firstname>.<lastname>@gatech.edu
 
 highlighter: rouge
 markdown: kramdown
@@ -17,14 +17,14 @@ markdown: kramdown
 # Social media links in footer
 # facebook: "#"
 # twitter: "#"
-linkedin: "lorenzocarnevale"
-github: "lcarnevale"
+linkedin: "piyush-j"
+github: "piyush-J"
 # researchgate: "#"
-orcid: "0000-0002-1349-341X"
-google_analytics: "G-V0TBR5PTVH"
-scopus: "57195963279"
-google_scholar: "_5EzmTwAAAAJ&hl=it"
-flickr: "lorenzocarnevale"
+orcid: "0000-0001-6513-354X"
+google_analytics: "#"
+scopus: "#"
+google_scholar: "azsq_WEAAAAJ&hl=en"
+flickr: "#"
 
 
 # highlighter: rouge
