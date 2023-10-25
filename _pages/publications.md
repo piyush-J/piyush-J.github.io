@@ -7,9 +7,9 @@ published: true
 
 ## Peer-reviewed Journals
 
-0.	Gaurav Bhatt, Piyush Jha and Balasubramanian Raman (2019). Representation learning using step-based deep multi-modal autoencoders. Pattern Recognition, Elsevier, Vol. 95, pp. 12-23. (Impact Factor: 8.518, Citations: 19)
+0.	Gaurav Bhatt, Piyush Jha and Balasubramanian Raman (2019). Representation learning using step-based deep multi-modal autoencoders. Pattern Recognition, Elsevier, Vol. 95, pp. 12-23. (Impact Factor: 8.518)
 
-0. Janaki B. Mohapatra, Piyush Jha, Madan Kumar Jha and Sabinaya Biswal (2021). Efficacy of machine learning techniques in predicting groundwater fluctuations in Agro-Ecological Zones of India. Science of the Total Environment, Elsevier, Vol. 785. (Impact Factor: 10.753, Citations: 22)
+0. Janaki B. Mohapatra, Piyush Jha, Madan Kumar Jha and Sabinaya Biswal (2021). Efficacy of machine learning techniques in predicting groundwater fluctuations in Agro-Ecological Zones of India. Science of the Total Environment, Elsevier, Vol. 785. (Impact Factor: 10.753)
 
 0. Piyush Jha, Rashi Kumar, and Vineet Sahula (2023). Filtering and Extended Vocabulary based Translation for Low-resource Language pair of Sanskrit-Hindi. Transactions on Asian and Low-Resource Language Information Processing, ACM, Just Accepted.
 
