@@ -14,9 +14,11 @@ I am currently working at the intersection of AI and deductive reasoning, focusi
 Join me on this journey to revolutionize AI, making it safer, more reliable, and accountable. Thank you for exploring my work!
 
 ### Areas I have worked on before my Ph.D.
-- Natural Language Processing: Hindi-Sanskrit translation with limited linguistic resources.
-- Representation Learning: Deep Learning algorithm (CorrMCNN) for multi-view and cross-modal representation learning.
-- Trustworthy ML: Testing and verification tools for Neural Networks.
-- AI ∩ Software Engineering: Reducing runtime errors in Java programs.
-- AI ∩ Environmental Science: Predicting seasonal groundwater levels on a nationwide scale.
-- AI ∩ Law: Legal issues around Deepfakes.
+- Natural Language Processing: Hindi-Sanskrit translation with limited linguistic resources
+- Representation Learning: Deep Learning algorithm (CorrMCNN) for multi-view and cross-modal representation learning
+- Trustworthy ML: Testing and verification tools for Neural Networks
+- AI ∩ Formal Methods: SMT tactic selection
+- AI ∩ Software Engineering: Reducing runtime errors in Java programs
+- AI ∩ Cybersecurity: LLM in an RL loop to fuzz web applications
+- AI ∩ Environmental Science: Predicting seasonal groundwater levels on a nationwide scale
+- AI ∩ Law: Legal issues around Deepfakes
