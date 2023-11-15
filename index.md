@@ -15,7 +15,7 @@ Join me on this journey to revolutionize AI, making it safer, more reliable, and
 
 ### Areas I have worked on before my Ph.D.
 - Natural Language Processing: Hindi-Sanskrit translation with limited linguistic resources
-- Representation Learning: Deep Learning algorithm (CorrMCNN) for multi-view and cross-modal representation learning
+- Representation Learning: Cross-modal Deep Learning algorithm (CorrMCNN)
 - Trustworthy ML: Testing and verification tools for Neural Networks
 - AI ∩ Formal Methods: SMT tactic selection
 - AI ∩ Software Engineering: Reducing runtime errors in Java programs
