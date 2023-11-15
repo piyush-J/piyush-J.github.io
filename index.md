@@ -13,7 +13,7 @@ I am currently working at the intersection of AI and deductive reasoning, focusi
 
 Join me on this journey to revolutionize AI, making it safer, more reliable, and accountable. Thank you for exploring my work!
 
-### Areas I have worked on before my Ph.D.
+#### Areas I have worked on prior to pursuing my Ph.D.
 - Natural Language Processing: Hindi-Sanskrit translation with limited linguistic resources
 - Representation Learning: Cross-modal Deep Learning algorithm (CorrMCNN)
 - Trustworthy ML: Testing and verification tools for Neural Networks
