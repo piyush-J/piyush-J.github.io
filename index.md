@@ -7,5 +7,16 @@ profile:
 published: true
 ---
 
-#### Short Biography
-I am a Ph.D. student in Computer Science at <a href="https://www.gatech.edu/">Georgia Tech</a> under the supervision of <a href="https://www.cc.gatech.edu/people/vijay-ganesh">Prof. Vijay Ganesh</a>, specializing in Artificial Intelligence and Logic. My research focuses on incorporating AI and deductive reasoning to solve complex combinatorial problems and to provide formal guarantees about the behaviors of ML systems which have an excellent prospect for impact on Neurosymbolic AI. My previous research lies at the intersection of ML and natural language, SAT solvers, reliable software, sustainability, and law. Based on my diverse research experiences across different industries and research labs, I have nine publications to date in the field of AI at reputed peer-reviewed international journals and conferences (ACM Transactions, IEEE, Pattern Recognition, LSE).
+I am Piyush Jha, a Ph.D. student in Computer Science at <a href="https://www.gatech.edu/">Georgia Tech</a>, specializing in Artificial Intelligence and Logic under the guidance of <a href="https://www.cc.gatech.edu/people/vijay-ganesh">Prof. Vijay Ganesh</a>. Drawing on my experience in Natural Language Processing and Computer Vision, my research focuses on advancing AI's logical reasoning capabilities.
+
+I am currently working at the intersection of AI and deductive reasoning, focusing on solving complex combinatorial problems using RL with deductive feedback. I am also engaged in a compelling project that involves hacking into Large Language Models (such as ChatGPT) to identify underlying issues and determine if integrating logical reasoning can enhance their security.
+
+Join me on this journey to revolutionize AI, making it safer, more reliable, and accountable. Thank you for exploring my work!
+
+### Areas I have worked on before my Ph.D.
+- Natural Language Processing: Hindi-Sanskrit translation with limited linguistic resources.
+- Representation Learning: Deep Learning algorithm (CorrMCNN) for multi-view and cross-modal representation learning.
+- Trustworthy ML: Testing and verification tools for Neural Networks.
+- AI ∩ Software Engineering: Reducing runtime errors in Java programs.
+- AI ∩ Environmental Science: Predicting seasonal groundwater levels on a nationwide scale.
+- AI ∩ Law: Legal issues around Deepfakes.
