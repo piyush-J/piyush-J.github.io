@@ -23,11 +23,18 @@ published: true
 
 ## Peer-reviewed International Conferences (Short Paper)
 
-0. Zhengyang Lu, Piyush Jha, Stefan Siemer, Florin Manea, Joel Day and Vijay Ganesh (2023). Reinforcement Learning empowers SMT solver. Doctoral Program at International Conference on Principles and Practice of Constraint Programming (CP) 2023. 27-31 August 2023, Toronto, Canada.
+0. Piyush Jha and Werner Dietl (Accepted). OppropBERL: A GNN and BERT-style Reinforcement Learning-based Type Inference. IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) 2024.
 
 0. Piyush Jha, Joseph Scott, Jaya Sriram Ganeshna, Mudit Singh and Vijay Ganesh (Accepted). BertRLFuzzer: A BERT and Reinforcement Learning based fuzzer (Student Abstract). Association for the Advancement of Artificial Intelligence (AAAI) 2024.
+
+0. Zhengyang Lu, Piyush Jha, Stefan Siemer, Florin Manea, Joel Day and Vijay Ganesh (2023). Reinforcement Learning empowers SMT solver. Doctoral Program at International Conference on Principles and Practice of Constraint Programming (CP) 2023. 27-31 August 2023, Toronto, Canada.
 
 ## Peer-reviewed International Short Articles
 
 0. Simran Jain and Piyush Jha. Deepfakes in India: regulation and privacy. South Asia Center at London School of Economics, The London School of Economics and Political Science (LSE), 21 May 2020. 
 
+## Pre-prints
+
+0. Prithwish Jana, Piyush Jha, Haoyang Ju, Gautham Kishore, Aryan Mahajan and Vijay Ganesh. Attention, Compilation, and Solver-based Symbolic Analysis are All You Need. arXiv preprint, June 2023.
+
+0. Vineel Nagisetty, Laura Graves, Guanting Pan, Piyush Jha and Vijay Ganesh. CGDTest: A Constrained Gradient Descent Algorithm for Testing Neural Networks. arXiv preprint, April 2023.
