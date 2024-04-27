@@ -5,7 +5,7 @@ permalink: /awards/
 published: true
 ---
 
-- **1st Rank:** International Satisfiability Modulo Theories (SMT) Competition 2023 (QF_String 24s division), July 2023, Rome, Italy
+- <b>1st Rank:</b> International Satisfiability Modulo Theories (SMT) Competition 2023 (QF_String 24s division), July 2023, Rome, Italy
 - **5th Rank:** Annual Verification of Neural Networks Competition (VNNCOMP) 2022, August 2022, Haifa, Israel
 - **International Doctoral Student Award:** Scholarship for international students to pursue Ph.D., January 2022, University of Waterloo, Canada
 - **University of Waterloo Graduate Scholarship:** Scholarship for demonstrating academic excellence, January 2022, University of Waterloo, Canada
