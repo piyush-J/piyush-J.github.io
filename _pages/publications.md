@@ -15,6 +15,8 @@ published: true
 
 ## Peer-reviewed International Conferences (Full Paper)
 
+0. Prithwish Jana, **Piyush Jha**, Haoyang Ju, Gautham Kishore, Aryan Mahajan, and Vijay Ganesh (2024). Attention, Compilation, and Solver-based Symbolic Analysis are All You Need. Accepted at European Conference on Artificial Intelligence (ECAI) 2024.
+
 0. Zhengyang Lu, Stefan Siemer, Piyush Jha, Joel Day, Florin Manea, and Vijay Ganesh (2024). Layered and Staged Monte Carlo Tree Search for SMT Strategy Synthesis. Accepted at International Joint Conference on Artificial Intelligence (IJCAI) 2024.
 
 0. Joseph Scott, Guanting Pan, **Piyush Jha**, Elias Khalil, and Vijay Ganesh (2023). Pierce: A testing tool for Neural Network Verification solvers. Accepted at International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE) 2023.
@@ -37,10 +39,10 @@ published: true
 
 ## Pre-prints
 
+0. **Piyush Jha**, Prithwish Jana, Arnav Arora, and Vijay Ganesh. RLSF: Reinforcement Learning via Symbolic Feedback. arXiv preprint, May 2024.
+
 0. Chunxiao Li, Charlie Liu, Jonathan Chung, Zhengyang Lu, **Piyush Jha**, and Vijay Ganesh. A Reinforcement Learning based Reset Policy for CDCL SAT Solvers. arXiv preprint, April 2024.
 
 0. **Piyush Jha**, Zhengyu Li, Zhengyang Lu, Curtis Bright, and Vijay Ganesh. AlphaMapleSAT: An MCTS-based Cube-and-Conquer SAT Solver for Hard Combinatorial Problems. arXiv preprint, January 2024. 
-
-0. Prithwish Jana, **Piyush Jha**, Haoyang Ju, Gautham Kishore, Aryan Mahajan and Vijay Ganesh. Attention, Compilation, and Solver-based Symbolic Analysis are All You Need. arXiv preprint, June 2023.
 
 0. Vineel Nagisetty, Laura Graves, Guanting Pan, **Piyush Jha**, and Vijay Ganesh. CGDTest: A Constrained Gradient Descent Algorithm for Testing Neural Networks. arXiv preprint, April 2023.
