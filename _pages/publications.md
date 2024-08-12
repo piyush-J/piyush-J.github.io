@@ -27,7 +27,7 @@ published: true
 
 ## Peer-reviewed International Conferences (Short Paper)
 
-0. **Piyush Jha** and Werner Dietl (Accepted). OppropBERL: A GNN and BERT-style Reinforcement Learning-based Type Inference. IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) 2024. 12-15 March 2024, Rovaniemi, Finland.
+0. **Piyush Jha** and Werner Dietl (2024). OppropBERL: A GNN and BERT-style Reinforcement Learning-based Type Inference. IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) 2024. 12-15 March 2024, Rovaniemi, Finland.
 
 0. **Piyush Jha**, Joseph Scott, Jaya Sriram Ganeshna, Mudit Singh, and Vijay Ganesh (2024). BertRLFuzzer: A BERT and Reinforcement Learning based fuzzer (Student Abstract). Association for the Advancement of Artificial Intelligence (AAAI) 2024. 20-27 February 2024, Vancouver, Canada.
 
