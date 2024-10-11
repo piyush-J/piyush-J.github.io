@@ -7,9 +7,9 @@ profile:
 published: true
 ---
 
-I am Piyush Jha, a second-year Ph.D. student in Computer Science at <a href="https://www.gatech.edu/">Georgia Tech</a>, specializing in Artificial Intelligence and Logic under the guidance of <a href="https://www.cc.gatech.edu/people/vijay-ganesh">Prof. Vijay Ganesh</a>. Drawing on my experience in Natural Language Processing and Computer Vision, my research focuses on advancing AI's logical reasoning capabilities.
+I am Piyush Jha, a second-year Ph.D. student in Computer Science at <a href="https://www.gatech.edu/">Georgia Tech</a>, specializing in Artificial Intelligence and Logic under the guidance of <a href="https://www.cc.gatech.edu/people/vijay-ganesh">Prof. Vijay Ganesh</a>. Drawing on my experience in Natural Language Processing and Computer Vision, my research focuses on efficiently combining Machine Learning with symbolic reasoning tools.
 
-I am currently focused on applying <b>Reinforcement Learning via Symbolic Feedback (RLSF)</b> to solve drug discovery-related problems and tackle combinatorially hard mathematical challenges. This new paradigm leverages symbolic reasoning tools to provide fine-grained feedback to Large Language Models (LLMs), enhancing their logical reasoning capabilities and addressing the limitations of traditional fine-tuning methods. Additionally, I am engaged in a project aimed at hacking LLM-based virtual assistants (such as ChatGPT) to identify underlying security issues and explore whether RLSF can enhance their security.
+Recently, I developed Reinforcement Learning via Symbolic Feedback (RLSF), which integrates small language models with symbolic reasoning, outperforming GPT-4 on complex tasks using **1000x smaller models**. I also created AlphaMapleSAT, a novel SAT solver utilizing symbolic feedback within MCTS, **reducing computation time by 27x vs SOTA** for hard combinatorial problems. Additionally, I designed an LLM jailbreak framework with a **+50% success rate (vs SOTA at 2%)** against highly safety-trained LLMs. My work spans diverse fields, including energy, e-commerce, law, cybersecurity, chemistry, and formal methods, delivering real-world AI innovations.
 
 #### Areas I have worked on prior to pursuing my Ph.D.:
 - Natural Language Processing: Hindi-Sanskrit translation with limited linguistic resources
