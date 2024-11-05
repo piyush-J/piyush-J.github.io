@@ -7,8 +7,12 @@ published: true
 
 ## Teaching
 
+#### Graduate Teaching Assistant, Georgia Tech, Atlanta, USA (May 2024 – August 2024)
+Subject: CS 7641 – Machine Learning (Class strength: 250)
+- Developed teaching materials to align with learning objectives and collaborated with 8 TAs to assess students' work, ensuring timely, constructive feedback to enhance learning outcomes.
+
 #### Graduate Teaching Assistant, University of Waterloo, Waterloo, Canada (January 2023 – August 2023)
-Subject: CS 136 - Elementary Algorithm Design and Data Abstraction (Class strength: 1080) and CS 245 - Logic and Computation (Class strength: 200)
+Subjects: CS 136 - Elementary Algorithm Design and Data Abstraction (Class strength: 1080) and CS 245 - Logic and Computation (Class strength: 200)
 - Participate in the assessment process while collaborating with 33 ISAs, IAs, and TAs to provide students with effective, timely, and appropriate feedback to support their learning.
 
 #### Graduate Teaching Assistant, University of Waterloo, Waterloo, Canada (January 2022 – April 2022)
