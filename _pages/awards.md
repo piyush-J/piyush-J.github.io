@@ -6,9 +6,9 @@ published: true
 ---
 
 - **IJCAI Travel Grant** to attend International Joint Conference on Artificial Intelligence (IJCAI) 2024, August 2024, Jeju, South Korea
-- **1st Rank:** International Satisfiability Modulo Theories (SMT) Competition 2024 (on 4 divisions & 4 Logics), July 2024, Montreal, Canada
+- **Winner (Rank 1):** International Satisfiability Modulo Theories (SMT) Competition 2024 (on 4 divisions & 4 Logics), July 2024, Montreal, Canada
 - **Verification Mentoring Workshop Travel Scholarship (funded by NSF)** to attend the 36th International Conference on Computer Aided Verification (CAV) 2024, July 2024, Montreal, Canada
-- **1st Rank:** International Satisfiability Modulo Theories (SMT) Competition 2023 (QF_String 24s division), July 2023, Rome, Italy
+- **Winner (Rank 1):** International Satisfiability Modulo Theories (SMT) Competition 2023 (QF_String 24s division), July 2023, Rome, Italy
 - **International Doctoral Student Award:** Scholarship for international students to pursue Ph.D., January 2022, University of Waterloo, Canada
 - **University of Waterloo Graduate Scholarship:** Scholarship for demonstrating academic excellence, January 2022, University of Waterloo, Canada
 - **GRS Scholarship:** Fully funded scholarship to pursue Ph.D. at University of Waterloo, Canada
