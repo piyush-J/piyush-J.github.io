@@ -25,6 +25,10 @@ published: true
 
 0. Gaurav Bhatt, **Piyush Jha**, and Balasubramanian Raman (2017). Common representation learning using step-based correlation multi-modal CNN. Asian Conference on Pattern Recognition (ACPR) 2017, IEEE. 26-29 November 2017, Nanjing, China.
 
+## Peer-reviewed International Conferences (Tutorial Paper)
+
+0.	John Lu, Chris Cameron, **Piyush Jha**, Kevin Leyton-Brown, and Vijay Ganesh (2025). Machine learning for solvers. Association for the Advancement of Artificial Intelligence (AAAI) 2025. _Accepted for a 3hr tutorial._
+
 ## Peer-reviewed International Conferences (Short Paper)
 
 0. **Piyush Jha**, Arnav Arora, and Vijay Ganesh (2025). LLMStinger: jailbreaking LLMs using RL fine-tuned LLMs (Student Abstract). Association for the Advancement of Artificial Intelligence (AAAI) 2025. _Accepted for poster and oral presentation._
@@ -38,10 +42,6 @@ published: true
 ## Peer-reviewed International Short Articles
 
 0. Simran Jain and **Piyush Jha**. Deepfakes in India: regulation and privacy. South Asia Center at London School of Economics, The London School of Economics and Political Science (LSE), 21 May 2020.
-
-## Peer-reviewed Tutorial Papers
-
-14.	John Lu, Chris Cameron, **Piyush Jha**, Kevin Leyton-Brown, and Vijay Ganesh (2025). Machine learning for solvers. Association for the Advancement of Artificial Intelligence (AAAI) 2025. _Accepted as a tutorial._
 
 ## Pre-prints
 
